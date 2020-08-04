@@ -7,7 +7,7 @@
 
 > Coming back to where you started is not the same as never leaving.
 
-Master procrastinator & full-stack developer in [`TypeScript`](https://github.com/microsoft/TypeScript) + [`React`](https://github.com/facebook/react), [`Go`](https://github.com/golang/go/), [`Python`](https://github.com/python/cpython), [`Kotlin`](https://github.com/JetBrains/kotlin) & [`Rust`](https://github.com/rust-lang/rust). Measures code quality by cups of coffee consumed per line of code written. :coffee
+Master procrastinator & full-stack developer in [`TypeScript`](https://github.com/microsoft/TypeScript) + [`React`](https://github.com/facebook/react), [`Go`](https://github.com/golang/go/), [`Python`](https://github.com/python/cpython), [`Kotlin`](https://github.com/JetBrains/kotlin) & [`Rust`](https://github.com/rust-lang/rust). Measures code quality by cups of coffee consumed per line of code written. :coffee:
 
 - <img src="https://raw.githubusercontent.com/skyezerfox/skyezerfox/master/logo-twitter.svg" width="24px" align="top"> [`@SkyezerFox`](https://twitter.com/SkyezerFox)
 - <img src="https://raw.githubusercontent.com/skyezerfox/skyezerfox/master/logo-telegram.svg" width="24px" align="top"> [`@SkyezerFox`](https://t.me/skyezerfox)
@@ -41,7 +41,10 @@ Here are some ideas to get you started:
 -->
 
 #### :couple: Cool people
+
 - [`NotZachery`](https://github.com/NotZachery)
 - [`vladfrangu`](https://github.com/vladfrangu)
 - [`jcx`](https://github.com/prouser123) 
 - [`kokumaji`](https://github.com/kokumaji)
+
+Y'all make my life better :heart:
