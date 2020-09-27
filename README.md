@@ -15,7 +15,7 @@ Master procrastinator & full-stack developer in [`TypeScript`](https://github.co
 
 Happy to be contacted about anything, be it code-related, fox-related, or whatever other wonderful shenanigans you're thinking about.
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=skyezerfox)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=skyezerfox)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skyezerfox&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 > Stats by [`GitHub Readme Stats`](https://github.com/anuraghazra/github-readme-stats) :heart:
 
