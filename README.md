@@ -21,24 +21,11 @@ Happy to be contacted about anything, be it code-related, fox-related, or whatev
 
 #### :telescope: Projects
 
+- [`styx`](https://github.com/SkyezerFox/styx) - General purpose programming language for cool people.
 - [`taghost`](https://github.com/SkyezerFox/taghost) - Image host & tagging system written in Go
 - [`yapp`](https://github.com/DumbDogDiner/yapp) - A parkour plugin for [`Paper`](https://github.com/papermc/paper) with a personality
 
 Feel free to steal - most of my stuff is either MIT or GPL :fox_face:
-
-<!--
-**SkyezerFox/SkyezerFox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
--  I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-
--->
 
 #### :couple: Cool people
 
