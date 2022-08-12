@@ -32,5 +32,6 @@ Feel free to steal - most of my stuff is either MIT or GPL :fox_face:
 - [`vladfrangu`](https://github.com/vladfrangu)
 - [`jcx`](https://github.com/prouser123) 
 - [`kokumaji`](https://github.com/kokumaji)
+- [`alyx`](https://github.com/alyx)
 
 Y'all make my life better :heart:
